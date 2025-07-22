@@ -83,7 +83,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: a778d7670dd83a04f9c4c2daf0e4e930
+    spriteID: 3e20e940781ad7840b490336b7d124b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -107,7 +107,7 @@ ScriptedImporter:
       y: 4
       width: 119
       height: 90
-    spriteID: f05ca5f48f432804c80903640eec1d36
+    spriteID: ac6ee5d7fe77dc642a93e0a2e733fa44
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,7 +160,7 @@ ScriptedImporter:
     spriteName: Taso 1
     isGroup: 0
     parentIndex: -1
-    spriteID: f05ca5f48f432804c80903640eec1d36
+    spriteID: ac6ee5d7fe77dc642a93e0a2e733fa44
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
     flatten: 0

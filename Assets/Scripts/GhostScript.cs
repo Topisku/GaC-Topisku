@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GhostScript : MonoBehaviour
+public class GhostScript:MonoBehaviour
 {
     public Rigidbody2D myRigidbody2d;
     public float flapStrength;

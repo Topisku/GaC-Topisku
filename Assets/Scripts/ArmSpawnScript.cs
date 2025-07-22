@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ArmSpawnScript : MonoBehaviour
+public class ArmSpawnScript:MonoBehaviour
 {
     public GameObject Arm;
     public float spawnRate = 2;
